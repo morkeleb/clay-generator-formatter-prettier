@@ -1,0 +1,14 @@
+{
+  "name": "clay-generator-formatter-prettier",
+  "version": "1.0.0",
+  "description": "a formatter for the clay generator that uses prettier for js and jsx formatting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morten Nielsen",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  }
+}
