@@ -1,8 +1,12 @@
 {
   "name": "clay-generator-formatter-prettier",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a formatter for the clay generator that uses prettier for js and jsx formatting",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/morkeleb/clay-generator-formatter-prettier.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
